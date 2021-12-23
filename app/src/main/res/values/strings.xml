@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sofka Challenge</string>
+    <string name="server">https://sfk.iptvlistasm3u.com</string>
+    <string name="next">siguiente</string>
+    <string name="puntos_ganandos">Puntos ganandos</string>
+    <string name="botton_salir_de_partida">boton salir de partida</string>
+    <string name="boton_ver_puntuaciones">boton ver puntuaciones</string>
+    <string name="category">Categoria</string>
+    <string name="level">Nivel</string>
+</resources>

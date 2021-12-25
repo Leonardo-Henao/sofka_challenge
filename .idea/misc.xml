@@ -6,7 +6,17 @@
         <entry key="..\:/Apps/sofka_challenge/app/src/main/res/drawable/bg_rewards.xml" value="0.23854166666666668" />
         <entry key="..\:/Apps/sofka_challenge/app/src/main/res/drawable/clipboard_list_outline.xml" value="0.23854166666666668" />
         <entry key="..\:/Apps/sofka_challenge/app/src/main/res/drawable/exit_to_app.xml" value="0.23854166666666668" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/drawable/star.xml" value="0.23854166666666668" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/activity_list_users.xml" value="0.22239583333333332" />
         <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/activity_main.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/alert_dialog_ask_name.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/alert_dialog_exit_game.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/alert_dialog_loading.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/alert_dialog_loading_verify_question.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/alert_dialog_response_failed.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/alert_dialog_response_finished.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/alert_dialog_response_ok.xml" value="0.22239583333333332" />
+        <entry key="..\:/Apps/sofka_challenge/app/src/main/res/layout/view_list_users.xml" value="0.22239583333333332" />
       </map>
     </option>
   </component>
@@ -15,5 +25,8 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
   </component>
 </project>

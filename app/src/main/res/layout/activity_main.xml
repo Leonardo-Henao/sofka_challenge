@@ -41,6 +41,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="0"
+                    android:id="@+id/tv_score"
                     android:textAlignment="center"
                     android:textColor="@android:color/white"
                     android:textSize="25sp"
@@ -80,6 +81,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/ly_rewards">
 
                 <ImageButton
+                    android:id="@+id/btn_exit"
                     style="@style/btn_submenu"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -87,6 +89,7 @@
                     android:src="@drawable/exit_to_app" />
 
                 <ImageButton
+                    android:id="@+id/btn_see_score_users"
                     style="@style/btn_submenu"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -104,6 +107,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:textAllCaps="true"
+            android:textAlignment="center"
+            android:padding="5dp"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/ly_info"
@@ -143,6 +148,8 @@
         </RadioGroup>
 
         <Button
+            android:id="@+id/btn_next"
+            android:enabled="false"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="15dp"

@@ -1,6 +1,7 @@
 package com.sofka.sofkachallenge.models
 
 data class modelQuestions(
+    val id: Int,
     val question: String,
     val opt1: String,
     val opt2: String,

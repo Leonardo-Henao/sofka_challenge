@@ -1,10 +1,30 @@
 <resources>
     <string name="app_name">Sofka Challenge</string>
-    <string name="server">https://sfk.iptvlistasm3u.com</string>
+    <string name="server" translatable="false">https://sfk.iptvlistasm3u.com</string>
     <string name="next">siguiente</string>
-    <string name="puntos_ganandos">Puntos ganandos</string>
-    <string name="botton_salir_de_partida">boton salir de partida</string>
-    <string name="boton_ver_puntuaciones">boton ver puntuaciones</string>
-    <string name="category">Categoria</string>
+    <string name="puntos_ganandos">Puntos ganados</string>
+    <string name="botton_salir_de_partida">botón salir de partida</string>
+    <string name="boton_ver_puntuaciones">botón ver puntuaciones</string>
+    <string name="category">Categoría</string>
     <string name="level">Nivel</string>
+    <string name="msj_server_search">Estamos buscando preguntas…</string>
+    <string name="congratulation">¡Felicitaciones! la siguiente ronda te espera</string>
+    <string name="continue_game">Continuar</string>
+    <string name="verify_question">Nuestro equipo esta verificando tu respuesta…</string>
+    <string name="sorry">¡Vaya! parece que en esta ocasión la respuesta no fue la correcta</string>
+    <string name="hint_name_user">Nombre</string>
+    <string name="msj_ask_name">¡Hola! nos gustaría conocer tu nombre para continuar</string>
+    <string name="welcome">Bienvenido(a)</string>
+    <string name="save_registre">guardamos tu trayectoria</string>
+    <string name="try_again">Intentemos nuevamente…</string>
+    <string name="finish">Finalizar</string>
+    <string name="congratulation_only">Felicitaciones</string>
+    <string name="arrived">llegamos al final del juego</string>
+    <string name="alert_response_finish">Al tocar en FINALIZAR empezaremos nuevamente el juego</string>
+    <string name="level_max_user">Nivel máximo</string>
+    <string name="score_max_user">Puntuación máxima</string>
+    <string name="exit_game_msj">¿Deseas realmente salir del juego?</string>
+    <string name="salir">salir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="alert_dialog_exit_game">Tu progreso será almacenado si respondiste bien al menos una pregunta</string>
 </resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_marginBottom="15dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/profile_user" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:textSize="16sp"
+        android:text="@string/msj_ask_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:helperText="Tu nombre debe contener mas de 3 caracteres"
+        android:hint="@string/hint_name_user"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        app:helperTextTextColor="@color/purple_200">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:id="@+id/et_ask_name"
+            android:layout_height="wrap_content" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:enabled="false"
+        android:text="@string/continue_game"
+        android:layout_margin="15dp"
+        android:id="@+id/btn_ok_dialog_ask_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -15,8 +15,8 @@
     </style>
 
 
-    <style name="dialog_theme">
-
+    <style name="dialog_theme" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="dialogCornerRadius">20dp</item>
     </style>
 
     <style name="btn_submenu">

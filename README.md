@@ -11,7 +11,7 @@ Funciones que se ejecutan en el servidor:
  - Retornar el valor de la ganancia del usuario, en este caso puntos.
  - Guarda el registro de juego de los usuarios.
 
-Al correo de respuesta de Vivian Osorio, sofka envio el archivo en formato .txt de los para configurar FTP
+Al correo de respuesta de Vivian Osorio, sofka envio el archivo en formato .txt de los datos para configurar FTP
 y puedan revisar los archivos PHP del webservice, por seguridad no los dejo aqui en el README para no dejarlos expuestos.
 
 **Por cuestiones de tiempo** no pude pulir o mejorar el diseño de la pantalla principal.
